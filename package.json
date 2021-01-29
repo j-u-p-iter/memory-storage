@@ -1,6 +1,6 @@
 {
   "name": "@j.u.p.iter/memory-storage",
-  "version": "0.0.0-semantically-released",
+  "version": "0.0.1",
   "description": "Memory Storage",
   "main": "dist/lib/index.js",
   "typings": "dist/types",
